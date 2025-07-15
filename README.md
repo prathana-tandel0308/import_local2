@@ -19,8 +19,4 @@ This Streamlit app predicts and compares the **total cost** of sourcing componen
 
 ---
 
-🚀 [Click here to run the app for free](git remote add origin https://github.com/yourusername/your-repo.git
-)
-
-
-
+🚀 [Click here to run the app for free](https://importlocal2-eyfbcqiax5bwdq5vv6tpx2.streamlit.app/)
