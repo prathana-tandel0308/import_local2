@@ -19,10 +19,8 @@ This Streamlit app predicts and compares the **total cost** of sourcing componen
 
 ---
 
-🚀 [Click here to run the app for free](https://prathana-smart-procurement.streamlit.app)
+🚀 [Click here to run the app for free](git remote add origin https://github.com/yourusername/your-repo.git
+)
 
 
-git add requirements.txt
-git commit -m "Added requirements file"
-git push
 
